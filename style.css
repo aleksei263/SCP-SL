@@ -1,0 +1,126 @@
+header{
+    background-color: rgb(145,90,100);
+    background-image:url(https://gas-kvas.com/uploads/posts/2023-01/1673289596_gas-kvas-com-p-anime-risunki-van-pis-luffi-39.jpg) ;
+    height: 200px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:italic;
+    font-stretch:ultra-expanded;
+    color: rgb(0, 0, 0);  
+    background-image: url(https://i.ytimg.com/vi/loqJpWLLq6o/maxresdefault.jpg);                   
+    background-size: cover;                    
+    background-repeat: repeat;                
+    background-position: center; 
+    font-size: 20px;                           
+    font-weight: bold;                        
+    font-family: "Impact";                     
+    font-style: italic;                        
+    color: rgb(45, 55, 120);                              
+    text-shadow: black 2px 5px 5px;            
+    text-align: center;
+}   
+
+.left{
+    background-color: red;
+    float: left;
+    width: 50%;
+    height: 100%;
+    text-align: justify;
+}      
+.right{
+    background-color: rgb(31, 31, 140);
+    float: right;
+    width: 50%;
+    height: 100%;
+    margin-right: 50px;
+    padding-right: 50px;
+    
+}
+.container{
+    width: 80%;
+    height: 100%;
+}
+.baaaaaa{
+    float: baaaaaa;
+    width: 100%;
+    height: 50%;
+}
+    
+
+
+main{
+    background-color: rgb(72, 1, 251);
+    height: 200px;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;
+    font-stretch:ultra-condensed;
+    color:dodgerblue;
+    font-size: 20px;                           
+    font-weight: bold;                        
+    font-family: "Impact";                     
+    font-style: italic;                        
+    color: blue;                              
+    text-shadow: black 2px 5px 5px;            
+    text-align: center; 
+    display: flex;  
+    justify-content: center;
+    height: 100%;
+    
+    
+    background-image: conic-gradient(at 60% 45%, rgb(255, 0, 0), rgb(68, 255, 0), rgb(255, 0, 0));
+    
+    
+    
+}
+footer{
+   
+    background: radial-gradient(circle, #0011ff, #8800ff);
+    
+    
+    height: 100%;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style:italic;
+    font-stretch:extra-expanded;
+    color: navy;
+    display: flex;
+
+   
+    
+} 
+.block{
+    background: radial-gradient(circle, #001aff, #5500ff);
+}
+
+.l_left{
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 50px;
+    
+    padding-right: 50px;
+   
+}
+
+.l_left img{
+    padding-top: 20px;
+}
+
+.l_right{
+    width: 70%;
+    /* float:right; */
+   
+    padding: 50px;
+    
+    padding-top: 50px;
+    display: flex;
+    
+    padding-left: 100;
+    
+       
+}
+
+.l_right li{
+    margin:  auto;
+}
